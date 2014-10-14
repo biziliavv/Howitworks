@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="apache-maven-3.2">
+    <CLASSES>
+      <root url="file://C:/bin/apache-maven-3.2.3" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/junit-4.12-beta-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-core/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-core/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-core/src/test/projects/lifecycle-executor/project-with-additional-lifecycle-elements/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-core/src/test/projects/lifecycle-executor/project-with-additional-lifecycle-elements/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-model/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-model/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/apache-maven/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-compat/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-compat/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-artifact/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-artifact/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/projects/isolated-project-getting-parent-pom/project/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/projects/isolated-project-getting-parent-pom/project/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/embedder-test-project/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/embedder-test-project/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/mojo-exec-err/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/bad-build-plan/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/ext-realm-error/ext/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/mojo-lookup-err/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/mojo-config-error/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/missing-module-pom/child1/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/missing-module-pom/child1/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/project-dep-missing/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/project-dep-missing/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/project-mojo-failure/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/project-mojo-failure/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/aggregate-mojo-failure/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/bad-ext-plugin-dep-ver/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/duplicated-attachments/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/ext-plugin-realm-error/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/ext-plugin-version-err/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/missing-req-mojo-param/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/bad-ext-plugin-maven-ver/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/config-rdonly-mojo-param/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/err-resolving-project-dep/project/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/err-resolving-project-dep/project/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/missing-direct-invoke-mojo/plugin/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/test/error-reporting-projects/profile-activator-lookup-err/ext/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/examples/simple-project/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-embedder/src/examples/simple-project/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-settings/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-plugin-api/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-plugin-api/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-model-builder/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-model-builder/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-aether-provider/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-aether-provider/src/test/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-settings-builder/src/main/java" />
+      <root url="file://C:/bin/apache-maven-3.2.3/maven-settings-builder/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/testng-testng-6.8.8.zip!/testng-testng-6.8.8/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/testng-testng-6.8.8.zip!/testng-testng-6.8.8/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/testng-testng-6.8.8.zip!/testng-testng-6.8.8/spring/src/jdk14" />
+      <root url="jar://$USER_HOME$/Downloads/testng-testng-6.8.8.zip!/testng-testng-6.8.8/spring/src/jdk15" />
+      <root url="jar://$USER_HOME$/Downloads/testng-testng-6.8.8.zip!/testng-testng-6.8.8/spring/src/common" />
+      <root url="jar://$USER_HOME$/Downloads/testng-testng-6.8.8.zip!/testng-testng-6.8.8/examples/src" />
+      <root url="jar://$USER_HOME$/Downloads/testng-testng-6.8.8.zip!/testng-testng-6.8.8/gigaspaces/src" />
+      <root url="jar://$USER_HOME$/Downloads/testng-testng-6.8.8.zip!/testng-testng-6.8.8/gigaspaces/test/src" />
+    </SOURCES>
+    <jarDirectory url="file://C:/bin/apache-maven-3.2.3" recursive="false" />
+  </library>
+</component>
